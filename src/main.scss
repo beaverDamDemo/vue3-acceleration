@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "JMH Typewriter";
+  src: local("JMH Typewriter"),
+    url("./assets/fonts/jmh_typewriter/JMH Typewriter.otf") format("opentype")
+      tech(color-COLRv1),
+    url("assets/fonts/jmh_typewriter/JMH Typewriter.otf") format("opentype"),
+    url("assets/fonts/jmh_typewriter/JMH Typewriter.ttf");
+}
+
+#app {
+  background-color: rgb(27, 29, 28);
+  color: rgb(166, 207, 226);
+  font-family: "JMH Typewriter";
+}
