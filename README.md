@@ -1,4 +1,5 @@
 # vue3-acceleration
+Same as older vue-acceleration but this time done with vuetify, vue3 and pinia
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
